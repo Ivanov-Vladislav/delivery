@@ -1,0 +1,6 @@
+{
+    "require": {
+        "digitalstars/simplevk": "dev-testing",
+        "digitalstars/database": "^1.0"
+    }
+}
